@@ -8,8 +8,9 @@
 
 |กลุ่มที่|เรื่อง|Link|
 |----|----|---|
+|66030270| นายภูมิ อัครธรรม |https://github.com/PhumAkrthum/Project-Healthcare-Management-System|
 |66030281| วิภัสศศิชา บำเพ็ญบุญ | [http://github.com/... ](https://github.com/jamelswift)|
-66030213| กรรณิการ์ มาอุ่น |https://github.com/senashino/PAYATIME/tree/main|
+|66030213| กรรณิการ์ มาอุ่น |https://github.com/senashino/PAYATIME/tree/main|
 |66030194| สุภาวดี เจริญไชย |https://github.com/67Suphawadee/project_tolit/tree/Dev-by-member3|
 |66030284| น.ส.ศรสวรรค์ จันทสุวรรณโณ | https://github.com/Nongtoonlnwza007eieiXD/PAYATIME |
 |66030067|นายธนกฤษ พิมพ์อรัญ|[https://github.com/samaj43981/project_tolit](https://github.com/samaj43981/project_tolit/tree/Dev-By-Leader)|
@@ -18,7 +19,6 @@
 |66030130| Perapat Singpan |https://github.com/Ohmies/Project-LearnHub|
 |66030238| นาย ณัฐนันท์ สุวรรณโชติ |https://github.com/juneroku/Project-Healthcare-Management-System |
 |66030077| นายธีรพัฒน์ เข็มทิศ |[Link](https://github.com/Jaobie-BN/Project_Servita)|
-
 3.3 ให้หัวหน้าทีมทำการ pull request มายัง repo ของใบงานนี้
 
 ## จบการทดลอง ##
