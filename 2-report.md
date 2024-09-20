@@ -8,13 +8,9 @@
 
 |กลุ่มที่|เรื่อง|Link|
 |----|----|---|
-|66030284| น.ส.ศรสวรรค์ จันทสุวรรณโณ | https://github.com/Nongtoonlnwza007eieiXD/PAYATIME |
-|66030067|นายธนกฤษ พิมพ์อรัญ|[https://github.com/samaj43981/project_tolit](https://github.com/samaj43981/project_tolit/tree/Dev-By-Leader)|
-|66030232| ณัฏฐณิชชา กิติชยาโชติ | https://github.com/Natthanitcha687/Project-Healthcare-Management-System/tree/main|
-|66030094| เนตรชนก สุริโย |https://github.com/Netrchanok/project_tolit/tree/Dev-by-member2|
-|66030130| Perapat Singpan |https://github.com/Ohmies/Project-LearnHub|
-|66030238| นาย ณัฐนันท์ สุวรรณโชติ |https://github.com/juneroku/Project-Healthcare-Management-System |
-|66030077| นายธีรพัฒน์ เข็มทิศ |[Link](https://github.com/Jaobie-BN/Project_Servita)|
+|66030109| ปัญญา ยะก๊บ |https://github.com/Panyayakob/MSC-Web.git|
+
+
 
 3.3 ให้หัวหน้าทีมทำการ pull request มายัง repo ของใบงานนี้
 
