@@ -8,7 +8,7 @@
 
 |กลุ่มที่|เรื่อง|Link|
 |----|----|---|
-|66030192| นางสาวสุภัทรา โมราวัล |https://github.com/mamSupat/Project-LearnHub |
+|66030192| นางสาวสุภัทรา โมราวัล |[https://github.com/mamSupat/Project-LearnHub](https://github.com/mamSupat/Project-LearnHub/blob/main/Project-part-1.md) |
 
 
 
