@@ -8,7 +8,7 @@
 
 |กลุ่มที่|เรื่อง|Link|
 |----|----|---|
-|66030232| ณัฏฐณิชชา กิติชยาโชติ |https://github.com/juneroku/Project-Healthcare-Management-System |
+|66030281| นางสาว วิภัสศศิชา บำเพ็ญบุญ |https://github.com/jamelswift/PAYATIME|
 |stuID| stuname | http://github.com/... |
 
 
