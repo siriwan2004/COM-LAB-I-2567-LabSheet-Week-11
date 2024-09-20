@@ -9,6 +9,8 @@
 |กลุ่มที่|เรื่อง|Link|
 |----|----|---|
 |66030292|สุนิสา มนูรีม |https://https://github.com/SunisaManureem/MSC-Web.git |
+|66030301| อาดิ๊ล บินสอั๊ด |https://github.com/AdilBinsaad/MSC-Web.git |
+|66030196| สุวรรณารัตน์ ปัดคำ |https://github.com/suwannarat30/project_Sept20.git|
 |66030178| นางสาวศิริวรรณ พุทธระสุ |https://github.com/siriwan2004/project_Sept20.git |
 |66030109| ปัญญา ยะก๊บ |https://github.com/Panyayakob/MSC-Web.git|
 |66030262| Phirawit Bunrit |https://github.com/Miw262/Project-LearnHub/blob/main/Project-part-3.md|
@@ -24,6 +26,7 @@
 |66030130| Perapat Singpan |https://github.com/Ohmies/Project-LearnHub|
 |66030238| นาย ณัฐนันท์ สุวรรณโชติ |https://github.com/juneroku/Project-Healthcare-Management-System |
 |66030077| นายธีรพัฒน์ เข็มทิศ |[Link](https://github.com/Jaobie-BN/Project_Servita)|
+|66030188| นางสาวสิริรุ่งนภา พลซื่อ | https://github.com/Thesiri04/project_Sept20/tree/Dev-by-Leader |
 
 3.3 ให้หัวหน้าทีมทำการ pull request มายัง repo ของใบงานนี้
 
