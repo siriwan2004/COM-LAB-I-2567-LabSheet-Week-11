@@ -9,12 +9,11 @@
 |กลุ่มที่|เรื่อง|Link|
 |66030067|นายธนกฤษ พิมพ์อรัญ|https://github.com/samaj43981/project_tolit|
 |----|----|---|
+|66030130| Perapat Singpan |https://github.com/Ohmies/Project-LearnHub|
 |66030238| นาย ณัฐนันท์ สุวรรณโชติ |https://github.com/juneroku/Project-Healthcare-Management-System |
 |66030077| นายธีรพัฒน์ เข็มทิศ |[Link](https://github.com/Jaobie-BN/Project_Servita)|
 |66030232| ณัฏฐณิชชา กิติชยาโชติ |https://github.com/juneroku/Project-Healthcare-Management-System |
 |stuID| stuname | http://github.com/... |
-
-
 
 3.3 ให้หัวหน้าทีมทำการ pull request มายัง repo ของใบงานนี้
 
