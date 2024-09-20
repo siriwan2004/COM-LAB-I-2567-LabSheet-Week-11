@@ -7,8 +7,9 @@
 3.2 แก้ไขไฟล์นี้โดยการ edit ชื่อเรื่องและ Link (ถ้าไม่พอ ให้เพิ่มบรรทัด)
 
 |กลุ่มที่|เรื่อง|Link|
-|66030067|นายธนกฤษ พิมพ์อรัญ|[https://github.com/samaj43981/project_tolit](https://github.com/samaj43981/project_tolit/tree/Dev-By-Leader)|
 |----|----|---|
+|66030284| น.ส.ศรสวรรค์ จันทสุวรรณโณ | https://github.com/Nongtoonlnwza007eieiXD/PAYATIME |
+|66030067|นายธนกฤษ พิมพ์อรัญ|[https://github.com/samaj43981/project_tolit](https://github.com/samaj43981/project_tolit/tree/Dev-By-Leader)|
 |66030232| ณัฏฐณิชชา กิติชยาโชติ | https://github.com/Natthanitcha687/Project-Healthcare-Management-System/tree/main|
 |66030094| เนตรชนก สุริโย |https://github.com/Netrchanok/project_tolit/tree/Dev-by-member2|
 |66030130| Perapat Singpan |https://github.com/Ohmies/Project-LearnHub|
