@@ -8,6 +8,7 @@
 
 |กลุ่มที่|เรื่อง|Link|
 |----|----|---|
+|66030192| นางสาวสุภัทรา โมราวัล | https://github.com/mamSupat/Project-LearnHub |
 |66030270| นายภูมิ อัครธรรม |https://github.com/PhumAkrthum/Project-Healthcare-Management-System|
 |66030281| วิภัสศศิชา บำเพ็ญบุญ | [http://github.com/... ](https://github.com/jamelswift)|
 |66030213| กรรณิการ์ มาอุ่น |https://github.com/senashino/PAYATIME/tree/main|
@@ -19,6 +20,7 @@
 |66030130| Perapat Singpan |https://github.com/Ohmies/Project-LearnHub|
 |66030238| นาย ณัฐนันท์ สุวรรณโชติ |https://github.com/juneroku/Project-Healthcare-Management-System |
 |66030077| นายธีรพัฒน์ เข็มทิศ |[Link](https://github.com/Jaobie-BN/Project_Servita)|
+
 3.3 ให้หัวหน้าทีมทำการ pull request มายัง repo ของใบงานนี้
 
 ## จบการทดลอง ##
