@@ -8,6 +8,7 @@
 
 |กลุ่มที่|เรื่อง|Link|
 |----|----|---|
+|66030301| อาดิ๊ล บินสอั๊ด |https://github.com/AdilBinsaad/MSC-Web.git |
 |66030196| สุวรรณารัตน์ ปัดคำ |https://github.com/suwannarat30/project_Sept20.git|
 |66030178| นางสาวศิริวรรณ พุทธระสุ |https://github.com/siriwan2004/project_Sept20.git |
 |66030109| ปัญญา ยะก๊บ |https://github.com/Panyayakob/MSC-Web.git|
