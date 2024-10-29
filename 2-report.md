@@ -32,6 +32,7 @@
 |66030188| นางสาวสิริรุ่งนภา พลซื่อ | https://github.com/Thesiri04/project_Sept20/tree/Dev-by-Leader |
 
 3.3 ให้หัวหน้าทีมทำการ pull request มายัง repo ของใบงานนี้
+https://github.com/siriwan2004/project_Sept20.git
 
 ## จบการทดลอง ##
 ---
